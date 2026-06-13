@@ -1,0 +1,14 @@
+[
+  {
+    "signals": "keyword vs embedding",
+    "agreement": 0.0723
+  },
+  {
+    "signals": "keyword vs resolution",
+    "agreement": 0.29635
+  },
+  {
+    "signals": "embedding vs resolution",
+    "agreement": 0.24475
+  }
+]
